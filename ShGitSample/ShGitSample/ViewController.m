@@ -21,6 +21,7 @@
     NSLog(@"Yes");
     NSLog(@"test");
     NSLog(@"what");
+    NSLog(@"weet");
 }
 
 - (void)didReceiveMemoryWarning {
