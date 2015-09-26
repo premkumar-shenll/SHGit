@@ -20,6 +20,7 @@
     NSLog(@"New file");
     NSLog(@"Yes");
     NSLog(@"test");
+    NSLog(@"what");
 }
 
 - (void)didReceiveMemoryWarning {
